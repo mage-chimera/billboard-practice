@@ -60,7 +60,7 @@ group :development, :test do
   gem 'hirb'
   gem 'hirb-unicode'
   gem 'awesome_print'
-  gem 'bootstrap-sass', '~> 3.3.5'
+  gem 'bootstrap-sass', '~> 3.4.1'
   gem 'bootswatch-rails'
   gem 'jquery-rails'
   gem 'activerecord-reset-pk-sequence'
